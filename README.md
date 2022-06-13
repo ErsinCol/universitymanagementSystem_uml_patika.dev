@@ -1,0 +1,1 @@
+# ErsinCol-universitymanagementSystem_uml_patika.dev
